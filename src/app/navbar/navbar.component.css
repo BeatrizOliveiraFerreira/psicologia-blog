@@ -12,3 +12,18 @@
     color: rgb(100, 98, 98);
 }
 
+@media screen and (max-width: 1100px) {
+    .container {
+        margin-top: 0.20rem;
+        margin-left: 0;
+    }
+
+    .blog, 
+    .home,
+    .contato,
+    .psicanalista {
+        display: flex;
+    }
+
+}
+

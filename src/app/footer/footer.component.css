@@ -3,8 +3,22 @@
     padding: 1rem;
     margin: 1.5rem;
     color: rgb(228, 216, 216);
+    border-radius: 10px;
 }
 
 .text-ligth{
     color: #fff;
+}
+
+@media screen and (max-width: 1000px) {
+    .footer {
+        margin-left:0;
+        margin-bottom: 1rem;
+        font-size: 0.80rem;
+    }
+
+    .text-ligth {
+        margin: 0;
+        font-size: 2rem;
+    }
 }
