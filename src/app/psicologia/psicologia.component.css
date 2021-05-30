@@ -1,0 +1,46 @@
+.imagem{
+    /* background-image: url('https://cdn.pixabay.com/photo/2015/12/27/05/48/turntable-1109588_960_720.jpg'); */
+    background-image: url('https://www.emprolpsicopedagogia.com.br/images/psicanalise/psicanalise.png');
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imagem2{
+    /* background-image: url('https://cdn.pixabay.com/photo/2015/12/27/05/48/turntable-1109588_960_720.jpg'); */
+    background-image: url('https://www.vittude.com/blog/wp-content/uploads/psicanalise-2.png');
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imagem3{
+    /* background-image: url('https://cdn.pixabay.com/photo/2015/12/27/05/48/turntable-1109588_960_720.jpg'); */
+    background-image: url('https://midiastm.gazetaonline.com.br/_midias/jpg/2019/07/22/sigmu-6239048.jpg');
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button{
+    margin: 1rem;
+    padding: 0.80rem;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-left: 33rem;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(9, 209, 36);
+    color: #fff;
+}
+
+.text-center{
+    font-weight: 300;
+    font-size: 1.2rem;
+}

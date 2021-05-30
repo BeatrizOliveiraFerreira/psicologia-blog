@@ -1,0 +1,14 @@
+.container{
+    margin-left: 32rem;
+    margin-top: 1.5rem;
+}
+
+.blog, 
+.home,
+.contato,
+.psicanalista{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: rgb(100, 98, 98);
+}
+

@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+
+.text-center{
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+
+.parallax{
+    /* background-image: url('https://cdn.pixabay.com/photo/2015/12/27/05/48/turntable-1109588_960_720.jpg'); */
+    background-image: url('https://cdn.pixabay.com/photo/2018/11/21/08/37/brain-3829057_960_720.jpg');
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 1.5rem;
+}
+
+.button{
+    padding: 0.80rem;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-left: 33rem;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: rgb(9, 209, 36);
+    color: #fff;
+}

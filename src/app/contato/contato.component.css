@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+}
+
+img{
+    width: 70%;
+    border-radius: 50%;
+    margin-left: 36.8rem;
+    
+}
+
+h5{
+    font-size: 1.5rem;
+    margin-left: 39rem;
+}
+
+
+.adriana,
+.psicanalista{
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.zap{
+    font-size: 20px;
+    text-decoration: none;
+    background-color: rgb(44, 218, 0);
+    padding: 0.50rem 2rem;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 38rem;
+}
+
+.zap:hover{
+    background-color: rgb(15, 75, 0);
+}
+
+.email{
+    font-size: 20px;
+    text-decoration: none;
+    background-color: rgb(66, 73, 73);
+    padding: 0.60rem 2.8rem;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 38.1rem;
+}
+
+.email:hover{
+    background-color: rgb(25, 27, 27);
+}
+
